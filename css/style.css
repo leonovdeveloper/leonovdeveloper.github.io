@@ -84,82 +84,11 @@ height:30px;
 	padding-top:  7px;
 }
 
-.im1, .im2, .im3, .im4, .im5, .im6
-{	
+.a1
+{
 	width: 85px;
-	height: 85px;
-}
-
-
-.test_im1
-{
-background: url(../img/i-1.jpg) no-repeat 50% 50%;
-display: inline-block;
-width: 85px;
-height: 85px;
-}
-.test_im1:hover
-{
-background: url(../img/1_pic.jpg) no-repeat 50% 50%;
-display: inline-block;
-width: 85px;
-height: 85px;
-opacity: 0.5;
-}
-.test_im2
-{
-background: url(../img/m-1.jpg) no-repeat 50% 50%;
-display: inline-block;
-width: 85px;
-height: 85px;
-}
-.test_im2:hover
-{
-background: url(../img/m-1.jpg) no-repeat 50% 50%;
-display: inline-block;
-width: 85px;
-height: 85px;
-opacity: 0.5;
-}
-.test_im3
-{
-background: url(../img/d-1.jpg) no-repeat 50% 50%;
-display: inline-block;
-width: 85px;
-height: 85px;
-
-}
-.test_im3:hover
-{
-background: url(../img/d-1.jpg) no-repeat 50% 50%;
-display: inline-block;
-width: 85px;
-height: 85px;
-opacity: 0.5;
-}
-.test_im4
-{
-
-}
-.test_im4:hover
-{
-	
-}
-.test_im5
-{
-
-}
-.test_im5:hover
-{
-	
-}
-.test_im6
-{
-
-}
-.test_im6:hover
-{
-	
+	 height: 85px;
+	 -o-transition: 0.8;
 }
 
 /*
