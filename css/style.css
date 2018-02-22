@@ -90,24 +90,83 @@ height:30px;
 	height: 85px;
 }
 
+
 .test_im1
 {
-	display: inline-block;
-	background: url(../img/i-1.jpg) no-repeat 50% 50%;
-	width: 85px;
-	height: 85px;
+background: url(../img/i-1.jpg) no-repeat 50% 50%;
+display: inline-block;
+width: 85px;
+height: 85px;
 }
 .test_im1:hover
 {
+background: url(../img/1_pic.jpg) no-repeat 50% 50%;
+display: inline-block;
+width: 85px;
+height: 85px;
+opacity: 0.5;
+}
+.test_im2
+{
+background: url(../img/d-1.jpg) no-repeat 50% 50%;
+display: inline-block;
+width: 85px;
+height: 85px;
+}
+.test_im2:hover
+{
+	
+}
+.test_im3
+{
+
+}
+.test_im3:hover
+{
+	
+}
+.test_im4
+{
+
+}
+.test_im4:hover
+{
+	
+}
+.test_im5
+{
+
+}
+.test_im5:hover
+{
+	
+}
+.test_im6
+{
+
+}
+.test_im6:hover
+{
+	
+}
+
+/*
+.test_im1, .test_im2, .test_im3, .test_im4, .test_im5, .test_im6
+{
+	display: inline-block;
+	width: 85px;
+	height: 85px;
+}
+.test_im1, .test_im2, .test_im3, .test_im4, .test_im5, .test_im6 :hover
+{
 	
 	display: inline-block;
-	background: url(../img/4_pic.jpg) no-repeat 50% 50%;
 	width: 85px;
 	height: 85px;
 	
-	opacity: 0.5;
+	
 }
-
+*/
 
 
 
