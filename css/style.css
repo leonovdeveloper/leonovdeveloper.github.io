@@ -60,6 +60,11 @@ footer
 
 }
 
+footer:hover
+{
+	opacity: 0.5;
+}
+
 
 @media(min-width: 300px)
 {
