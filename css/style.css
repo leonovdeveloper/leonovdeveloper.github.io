@@ -319,6 +319,21 @@ height:100px;
 	 -o-transition: 0.8;
 }
 
+.line
+{
+
+    border: none; /* Убираем границу */
+    background-color: red; /* Цвет линии */
+    color: black; /* Цвет линии для IE6-7 */
+    height: 2px; /* Толщина линии */
+
+}
+.publ
+{
+	display:block;
+	text-align:center;
+}
+
 }
 
 
