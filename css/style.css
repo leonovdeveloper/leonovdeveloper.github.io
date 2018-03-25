@@ -161,7 +161,7 @@ height:50px;
 }
 .p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8
 {
-	width: 100px;
+	width: 500px;
 	padding-top: 60px;
 	margin-left: 10px;
 	margin-left: 10px;
@@ -355,7 +355,13 @@ width:
 	padding-top: 50px;
 }
 
-
+.p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8
+{
+	width: 500px;
+	padding-top: 60px;
+	margin-left: 10px;
+	margin-left: 10px;
+}
 
 
 
