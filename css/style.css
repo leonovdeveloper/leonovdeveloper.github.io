@@ -273,10 +273,11 @@ height:70px;
 	
 	padding-top:  7px;
 }
-.p2, .p3, .p4, .p5, .p6, .p7, .p8
+.p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8
 {
 	width: 500px;
 	padding-top: 60px;
+	margin-left: 10px;
 }
 
 .a1
