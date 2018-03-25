@@ -159,7 +159,13 @@ height:50px;
 	
 	padding-top:  7px;
 }
-
+.p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8
+{
+	width: 100px;
+	padding-top: 60px;
+	margin-left: 10px;
+	margin-left: 10px;
+}
 
 .a1
 {
@@ -208,13 +214,7 @@ height:70px;
 {
 	padding-top:  7px;
 }
-.p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8
-{
-	width: 100px;
-	padding-top: 60px;
-	margin-left: 10px;
-	margin-left: 10px;
-}
+
 
 .a1
 {
