@@ -65,6 +65,13 @@ footer:hover
 	opacity: 0.5;
 }
 
+.p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8
+{
+	width: 450px;
+	padding-top: 60px;
+	margin-right: 10px;
+}
+
 
 @media(min-width: 300px)
 {
@@ -213,8 +220,7 @@ height:70px;
 {
 	width: 100px;
 	padding-top: 60px;
-	margin-left: 10px;
-	margin-left: 10px;
+	margin-right: 10px;
 }
 
 .a1
@@ -345,7 +351,6 @@ width:
 {
 	display: block;
 	text-align:center;
-	margin-left: 10px;
 	margin-right: 10px;
 	padding-top: 200px;
 
@@ -356,13 +361,7 @@ width:
 	padding-top: 50px;
 }
 
-.p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8
-{
-	width: 500px;
-	padding-top: 60px;
-	margin-left: 10px;
-	margin-left: 10px;
-}
+
 
 
 
