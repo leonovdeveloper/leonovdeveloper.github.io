@@ -260,7 +260,11 @@ height:70px;
 	
 	padding-top:  7px;
 }
-
+.p2, .p3, .p4, .p5, .p6, .p7, .p8
+{
+	width: 800px;
+	padding-top: 60px;
+}
 
 .a1
 {
@@ -309,7 +313,6 @@ height:100px;
 }
 .line-photos2
 {
-	
 	padding-top:  7px;
 }
 .line
@@ -325,7 +328,7 @@ width: 1200px;
 }
 .p2, .p3, .p4, .p5, .p6, .p7, .p8
 {
-	width: 800px;
+	width: 1000px;
 	padding-top: 60px;
 }
 
