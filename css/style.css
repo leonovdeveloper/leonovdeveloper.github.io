@@ -318,24 +318,30 @@ height:100px;
 	 height: 320px;
 	 -o-transition: 0.8;
 }
+.p2, .p3, .p4, .p5, .p6, .p7, .p8
+{
+	width: 1000px;
+}
+
+}
 
 .line
 {
-
-    border: none; /* Убираем границу */
-    background-color: red; /* Цвет линии */
-    color: black; /* Цвет линии для IE6-7 */
-    height: 2px; /* Толщина линии */
-
+display: block;
+text-align:center;
+padding-left: 10px;
+width: 
 }
 .publ
 {
-	display:block;
+	display: block;
 	text-align:center;
-}
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 50px;
 
 }
-
 
 
 
