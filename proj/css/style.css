@@ -1,0 +1,49 @@
+
+body {
+  font: 300 100% 'Helvetica Neue', Helvetica, Arial;
+  margin: 0; 
+}
+
+.bgPic
+{
+	position: absolute;
+	margin: 0px;
+
+}
+
+
+ul li {
+  display: inline-block;
+  display: inline;
+  text-align: center;
+}
+
+a {
+  display: inline-block;
+ width: 20%;
+  padding: .75rem 0;
+  margin: 0;
+  text-decoration: none;
+  color: white;
+}
+
+.two:hover ~ hr {
+  margin-left: 21%;
+}
+
+.three:hover ~ hr {
+  margin-left: 41%;
+}
+
+.four:hover ~ hr {
+  margin-left: 62%;
+}
+
+hr {
+  height: .25rem;
+  width: 20%;
+  margin: 0;
+  background: white;
+  border: none;
+  transition: .3s ease-in-out;
+}
