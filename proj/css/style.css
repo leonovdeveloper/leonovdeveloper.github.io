@@ -8,10 +8,14 @@ body {
 {
 	position: absolute;
 	margin: 0px;
-  width: 640px;
 
 }
 
+.im1
+{
+	padding-bottom: 10px;
+	width: 100%;
+}
 
 ul li {
   display: inline-block;
@@ -25,7 +29,7 @@ a {
   padding: .75rem 0;
   margin: 0;
   text-decoration: none;
-  color: white;
+  color: black;
 }
 
 .two:hover ~ hr {
@@ -44,7 +48,7 @@ hr {
   height: .25rem;
   width: 20%;
   margin: 0;
-  background: white;
+  background: black;
   border: none;
   transition: .3s ease-in-out;
 }
